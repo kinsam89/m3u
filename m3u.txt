@@ -1,13 +1,15 @@
-#EXTM3U
+KÊNH SCTV,#genre#
 #EXTINF:-1,Viu TV
 https://cdn.hkdtmb.com/hls/99/index.m3u8
 #EXTINF:-1,Viu TV
 http://61.238.6.49:8000/bysid/96
 #EXTINF:-1,Viu TV6
 https://cdn.hkdtmb.com/hls/96/index.m3u8
+KÊNH VTV,#genre#
 #EXTINF:-1,RTHK31
 https://cdn.hkdtmb.com/hls/31/index.m3u8
 #EXTINF:-1,RTHK32
 https://cdn.hkdtmb.com/hls/32/index.m3u8
+KÊNH HTV,#genre#
 #EXTINF:-1,RTHK32
 https://cdn.hkdtmb.com/hls/33/index.m3u8
