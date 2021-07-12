@@ -1,15 +1,131 @@
-KÊNH SCTV,#EXTM3U
-#EXTINF:-1,Viu TV
-https://cdn.hkdtmb.com/hls/99/index.m3u8
-#EXTINF:-1,Viu TV
-http://61.238.6.49:8000/bysid/96
-#EXTINF:-1,Viu TV6
-https://cdn.hkdtmb.com/hls/96/index.m3u8
-KÊNH VTV,#EXTM3U
-#EXTINF:-1,RTHK31
-https://cdn.hkdtmb.com/hls/31/index.m3u8
-#EXTINF:-1,RTHK32
-https://cdn.hkdtmb.com/hls/32/index.m3u8
-#EXTM3U,KÊNH HTV
-#EXTINF:-1,RTHK32
-https://cdn.hkdtmb.com/hls/33/index.m3u8
+#EXTM3U
+#EXTINF:-1,SCTV1
+http://155.so/60YLVS
+#EXTINF:-1,SCTV2
+http://155.so/6g0LOe
+#EXTINF:-1,SCTV3
+http://155.so/6v3bXC
+#EXTINF:-1,SCTV6
+http://155.so/5wTvm3
+#EXTINF:-1,SCTV7
+http://155.so/5wTucV
+#EXTINF:-1,SCTV9
+http://155.so/5LVUmj
+#EXTINF:-1,SCTV11
+http://155.so/60YNoc
+#EXTINF:-1,SCTV12
+http://155.so/68v0sT
+#EXTINF:-1,SCTV13
+http://155.so/6v3eGY
+#EXTINF:-1,VTV1
+http://155.so/5SQbEQ
+#EXTINF:-1,VTV2
+http://155.so/5ExYHS
+#EXTINF:-1,VTV3
+http://155.so/5SR1ni
+#EXTINF:-1,VTV3
+http://155.so/5LkOx7
+#EXTINF:-1,VTV4
+http://155.so/6172wG
+#EXTINF:-1,VTV5
+http://155.so/68DfKp
+#EXTINF:-1,VTV6
+http://155.so/5x2XSf
+#EXTINF:-1,VTV6
+http://155.so/5TBEnf
+#EXTINF:-1,VTV7
+http://155.so/6g9tbw
+#EXTINF:-1,VTV8
+http://155.so/6vbTsu
+#EXTINF:-1,VTV9
+http://155.so/5x1MNB
+#EXTINF:-1,HTV1
+http://155.so/6nz3q7
+#EXTINF:-1,HTV2
+http://155.so/6nzqZp
+#EXTINF:-1,HTV3
+http://155.so/5TyKQL
+#EXTINF:-1,HTV4
+http://155.so/5SOcQu
+#EXTINF:-1,HTV7
+http://155.so/5wVuhF
+#EXTINF:-1,HTV9
+http://155.so/5LXV3V
+#EXTINF:-1,HTV Thể Thao
+http://155.so/5TyP2B
+#EXTINF:-1,HTVC
+http://155.so/6vcIri
+#EXTINF:-1,DU LỊCH CUỘC SỐNG
+http://155.so/6vcIPY
+#EXTINF:-1,GIA ĐÌNH
+http://155.so/5SR3qS
+#EXTINF:-1,PHỤ NỮ
+http://155.so/5SR3ik
+#EXTINF:-1,C+
+http://155.so/617TdW
+#EXTINF:-1,HTVC CA NHẠC
+http://155.so/6vcJn2
+#EXTINF:-1,THUẦN VIỆT
+http://155.so/6vcJce
+#EXTINF:-1,VTC1
+http://155.so/68E75P
+#EXTINF:-1,VTC2
+http://155.so/5LkRuv
+#EXTINF:-1,VTC3
+http://155.so/6vckvU
+#EXTINF:-1,VTC4
+http://155.so/5x2EHR
+#EXTINF:-1,VTC5
+http://155.so/68E8bJ
+#EXTINF:-1,VTC6
+http://155.so/5TBJUN
+#EXTINF:-1,VTC7
+http://155.so/5x2EQz
+#EXTINF:-1,VTC8
+http://155.so/5TBKjj
+#EXTINF:-1,VTC9
+http://155.so/5EuFaO
+#EXTINF:-1,VTC10
+http://155.so/6vckXa
+#EXTINF:-1,VTC11
+http://155.so/5SR5YC
+#EXTINF:-1,VTC12
+http://155.so/5EuF4G
+#EXTINF:-1,VTC13
+http://155.so/617UP8
+#EXTINF:-1,VTC14
+http://155.so/6nGy75
+#EXTINF:-1,VTC16
+http://155.so/6vcle6
+#EXTINF:-1,BTV1
+http://155.so/617Vvo
+#EXTINF:-1,BTV2
+http://155.so/5LkTe5
+#EXTINF:-1,BTV4
+http://155.so/5x2D45
+#EXTINF:-1,BTV6
+http://155.so/617VZS
+#EXTINF:-1,BTV9
+http://155.so/6gamgc
+#EXTINF:-1,BTV11
+http://155.so/5SR6Dq
+#EXTINF:-1,HÀ NÔI 1
+http://155.so/6gao4M
+#EXTINF:-1,HÀ NỘI 2
+http://155.so/68Eb71
+#EXTINF:-1,NCM
+http://155.so/5EuHlE
+#EXTINF:-1,FBNC
+http://155.so/5x2Guv
+#EXTINF:-1,VOV TV
+http://155.so/68Eacz
+#EXTINF:-1,QUỐC HÔI
+http://155.so/5EuHLW
+#EXTINF:-1,QUỐC PHÒNG
+http://155.so/5EuHBM
+#EXTINF:-1,AN NINH
+http://155.so/5SRaH2
+#EXTINF:-1,V-NEW
+http://155.so/617Xwo
+#EXTINF:-1,NHÂN DÂN TV
+http://155.so/617XCc
