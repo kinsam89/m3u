@@ -25,7 +25,6 @@ https://livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="vtv9hd"group-title="VTV" tvg-logo="https://i.ibb.co/6bFVqfq/VTV9-HD-BEARTV.png",VTV9 HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV9-HD-1080p/playlist.m3u8
 
-
 #EXTINF:0 tvg-id="antvhd"group-title="THỜI SỰ - BEAR TV" tvg-logo="https://i.ibb.co/9wxKmLH/ANTV-BEARTV.png", ANTV HD
 https://livecdn.fptplay.net/sdc/anninhtv_2000.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="quoc_hoi_tv" group-title="THỜI SỰ - BEAR TV" tvg-logo="https://i.ibb.co/Dt2mVGQ/QUOCHOI-BEARTV.png", QUỐC HỘI
@@ -452,5 +451,3 @@ http://stream2.grandma.fit/espn2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8Ydf1wj/ASTRO2-BEARTV.png" group-title="KÊNH THỂ THAO", Astro Super Sport 2
 http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
-
-
