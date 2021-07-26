@@ -228,11 +228,11 @@ http://nex.xemtiviviet.com/next.php?id=30
 
 
 #EXTINF:-1 tvg-id="vinhlong1hd" tvg-name="THVL1 HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/2MVntS3/THVL1-HD-BEARTV.png",Vĩnh Long 1 HD
-http://155.so/5NRLjG
+https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/playlist.m3u8?token=eyJjaGFubmVsX2lkIjogInRodmwxIiwgInJtaXAiOiAiMTAwLjExMS4xOTQuNTQiLCAidXNlcl9pZCI6IDEzNjcxMzM2LCAidGltZXN0YW1wIjogMTYyNzI5MzgwOX0&user_id=90257966
 #EXTINF:-1 tvg-id="vinhlong2hd" tvg-name="THVL2 HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/LJWVVRp/THVL2-HD-BEARTV.png",Vĩnh Long 2 HD
 https://livecdn.fptplay.net/sdb/vinhlong2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vinhlong3hd" tvg-name="THVL3 HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Y8XFm4Z/THVL3-HD-BEARTV.png",Vĩnh Long 3 HD
-http://155.so/5y58yj
+https://vips-livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/playlist.m3u8?token=eyJjaGFubmVsX2lkIjogInZpbmgtbG9uZy0zIiwgInJtaXAiOiAiMTAwLjExMS4xOTQuNTQiLCAidXNlcl9pZCI6IDEzNjcxMzM2LCAidGltZXN0YW1wIjogMTYyNzI5NTk2M30&user_id=90257966
 #EXTINF:-1 tvg-id="THVL4 HD" tvg-name="THVL4 HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/F5VZQ8x/THVL4-HD-BEARTV.png",Vĩnh Long 4 HD
 http://155.so/5GlV2d
 #EXTINF:-1 tvg-id="TH BINH DUONG 1"group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/VSJQW77/BTV1-BEARTV.png",BTV 1
