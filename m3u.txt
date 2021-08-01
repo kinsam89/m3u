@@ -195,9 +195,9 @@ https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv_the_thao" tvg-name="HTV THE THAO" group-title="HTV" tvg-logo="https://i.ibb.co/PGkqd9K/HTVTHETHAO-BEARTV.png",HTV THỂ THAO HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htv7hd"tvg-logo="https://i.ibb.co/mh1GLfY/HTV7-BEARTV.png" group-title="HTV",HTV7 HD
-http://155.so/5wVuhF
+https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/playlist.m3u8?token=eyJjaGFubmVsX2lkIjogImh0djctaGQiLCAicm1pcCI6ICIxMDAuMTExLjE5NC41NCIsICJ1c2VyX2lkIjogMTM2NzEzMzYsICJ0aW1lc3RhbXAiOiAxNjI3ODE1Mjg1fQ&user_id=90257966
 #EXTINF:-1 tvg-id="htv9hd"tvg-logo="https://i.ibb.co/4VNDzHh/HTV9-BEARTV.png" group-title="HTV",HTV9 HD
-http://155.so/5LXV3V
+https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/playlist.m3u8?token=eyJjaGFubmVsX2lkIjogImh0djktaGQiLCAicm1pcCI6ICIxMDAuMTExLjE5NC41NCIsICJ1c2VyX2lkIjogMTM2NzEzMzYsICJ0aW1lc3RhbXAiOiAxNjI3ODE1NDI3fQ&user_id=90257966
 #EXTINF:-1 tvg-id="htvc_ca_nhac"tvg-logo="https://i.ibb.co/Qc2PXFp/HCTVCANHAC-BEARTV.png" group-title="HTV",HTVC Ca Nhạc
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="HTVC DU LICH CUOC SONG"tvg-logo="https://i.ibb.co/DgWJ4VF/HTVCDLCS-BEARTV.png"group-title="HTV",HTVC Du Lịch & Cuộc Sống
