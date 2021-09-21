@@ -54,39 +54,53 @@ https://rlink.vn/beartv-vtvcab19
 
 
 #EXTINF:0 tvg-id="SCTV1" group-title="SCTV" tvg-logo="https://i.ibb.co/fX3N2C9/SCTV1-BEARTV.png", SCTV1 HD - Hài
-https://e1.endpoint.cdn.sctvonline.vn/hls/sctv1/sd1/index.m3u8
+http://116.108.41.3:8080/sctv/e1/secure/sctv1/sd1/index.m3u8?md5=pGyKSYjrGrL2ZLYg-J8v_g&expires=2556118740&token=wS7p0KTdrT4Oblxiwd5XzQ&e=1632254770
+
 #EXTINF:0 tvg-id="sctv2_hd" group-title="SCTV" tvg-logo="https://i.ibb.co/2WZRdz6/SCTV2-BEARTV.png", SCTV2 HD - AMC
-https://e1.endpoint.cdn.sctvonline.vn/hls/sctv2/sd1/index.m3u8
+http://116.108.41.3:8080/sctv/e1/secure/sctv2/sd1/index.m3u8?md5=4uJKDAWdU9pdIfSzvhQJPQ&expires=2556118740&token=6WtXuRxIQn63XBAm6biADw&e=1632254885
+
 #EXTINF:0 tvg-id="sctv3_see_tv" group-title="SCTV" tvg-logo="https://i.ibb.co/HqxQX8C/SCTV3-BEARTV.png", SCTV3 HD - See TV
-https://e1.endpoint.cdn.sctvonline.vn/hls/sctv3/sd1/index.m3u8
+http://116.108.40.230:8080/sctv/e1/secure/sctv3/sd1/1632244948903.ts?md5=-RE2AlRfyZP_ntu4aRKUMA&expires=2556118740&token=oleqCgEefLJlLNbv-p9KyQ&e=1632254931
+
 #EXTINF:-1 tvg-id="SCTV4" group-title="SCTV" tvg-logo="https://i.ibb.co/3Sm2bkS/SCTV4-BEARTV.png",SCTV 4 HD - Giải Trí
-https://rlink.vn/beartv-sctv4
+http://116.108.41.3:8080/sctv/e1/secure/sctv4//index.m3u8?md5=VvFuYftKuNK8bzBSxxbb0g&expires=2556118740&token=uuTxUScfJR6RYH9c_-L-cQ&e=1632255033
+
 #EXTINF:0 tvg-id="sctv6_hd" group-title="SCTV" tvg-logo="https://i.ibb.co/tBfNQVR/SCTV6-BEARTV.png", SCTV6 HD - SNTV
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv6/sd1/index.m3u8
+
 #EXTINF:0 tvg-id="sctv7_hd" group-title="SCTV" tvg-logo="https://i.ibb.co/rGyYtmX/SCTV7-BEARTV.png", SCTV7 HD - SHOW
-https://e1.endpoint.cdn.sctvonline.vn/hls/sctv7/sd1/index.m3u8
+http://116.108.40.221:8080/sctv/e1/secure/sctv7/sd1/index.m3u8?md5=t2rQwa4sPnnjLhLl96Sgng&expires=2556118740&token=OE1B_sc7enqkYH4cIG2Vhw&e=1632259382
+
 #EXTINF:0 tvg-id=" group-title="SCTV" tvg-logo="https://i.ibb.co/3Mps2Cw/SCTV8-BEARTV.png", SCTV8 HD - VITV
-https://rlink.vn/beartv-sctv8
+http://116.108.26.39:8080/sctv/e1/secure/sctv8/sd1/index.m3u8?md5=4VmSMUN05v9AhUS7aYe6Ig&expires=2556118740&token=awGGnb-O0q6KslJC89pDUw&e=1632259430
+
 #EXTINF:0 tvg-id="SCTV9" group-title="SCTV" tvg-logo="https://i.ibb.co/tzjMs9N/SCTV9-BEARTV.png", SCTV9 - Phim TVB
-https://e1.endpoint.cdn.sctvonline.vn/hls/sctv9/sd1/index.m3u8
+http://116.108.40.225:8080/sctv/e1/secure/sctv9/sd1/index.m3u8?md5=YbHnb-7yJPcp86S-bNWnvA&expires=2556118740&token=3I3x9FrgC4Z8VERQqUZJ3Q&e=1632259471
+
 #EXTINF:0 tvg-id="sctv11_tv_star" group-title="SCTV" tvg-logo="https://i.ibb.co/3CqGtyy/SCTV11-BEARTV.png", SCTV11 HD - TV STAR
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv11/sd1/index.m3u8
 #EXTINF:0 tvg-id="SCTV12" group-title="SCTV" tvg-logo="https://i.ibb.co/SKG7SMb/SCTV12-BEARTV.png", SCTV12 HD - Du Lịch
-https://e1.endpoint.cdn.sctvonline.vn/hls/sctv12/sd1/index.m3u8
+http://116.108.26.39:8080/sctv/e1/secure/sctv12/sd1/index.m3u8?md5=i0L8AAUKtOAHBzsnl8UhlA&expires=2556118740&token=_a9NjajNgioNpuhvUTl7Ww&e=1632259543
+
 #EXTINF:-1 tvg-id="sctv13_lady_tv" group-title="SCTV" tvg-logo="https://i.ibb.co/LQgGFN1/SCTV13-BEARTV.png", SCTV13 HD - Lady TV
-https://e1.endpoint.cdn.sctvonline.vn/hls/sctv13/sd1/index.m3u8
+http://116.108.41.3:8080/sctv/e1/secure/sctv13/sd1/index.m3u8?md5=GeobYI8uI8LhmTFo-CYFcA&expires=2556118740&token=Hd_CuPg6rh-GEjnn4OgzaA&e=1632259580
+
 #EXTINF:-1 tvg-id="sctv14_kenh_phim_viet" group-title="SCTV" tvg-logo="https://i.ibb.co/0YtfJK8/SCTV14-BEARTV.png", SCTV14 HD - Kênh Phim Việt
-https://rlink.vn/beartv-sctv14
+http://116.108.26.39:8080/sctv/e1/secure/sctv14/sd1/index.m3u8?md5=bs-8dgbSHwp63TDXoCpnkw&expires=2556118740&token=AKpLli3N5dQXku0EoM96rg&e=1632259752
+
 #EXTINF:-1 tvg-id="SCTV16" group-title="SCTV" tvg-logo="https://i.ibb.co/xJbbrHy/SCTV16-BEARTV.png", SCTV16 HD - Phim Nước Ngoài Đặc Sắc (Fox Action Movies)
-https://rlink.vn/beartv-sctv16
+http://116.108.40.230:8080/sctv/e1/secure/sctv16/sd1/index.m3u8?md5=xVPLXiUpFg73yuaDyEy-2w&expires=2556118740&token=6VsR7hmjD_gcGchPw0anLA&e=1632259862
 #EXTINF:-1 tvg-id="sctv18_hd_kenh_18" group-title="SCTV" tvg-logo="https://i.ibb.co/XkPQKgK/SCTV18-BEARTV.png", SCTV18 HD - Kênh 18
-https://rlink.vn/beartv-sctv18
+http://116.108.40.230:8080/sctv/e1/secure/sctv18/sd1/index.m3u8?md5=LpLRftYMafDSOLR-TKK6Mw&expires=2556118740&token=IXzMB-QCZnbvPz9nis4_hQ&e=1632259947
+
 #EXTINF:-1 tvg-id="SCTV19" group-title="SCTV" tvg-logo="https://i.ibb.co/TwKfHGD/SCTV19-BEARTV.png", SCTV19 HD - Channel T
-https://rlink.vn/beartv-sctv19
+http://116.108.41.3:8080/sctv/e1/secure/sctv19/sd1/index.m3u8?md5=uMR0F1oSOwIfKPtt7-a4xg&expires=2556118740&token=br3y8PT0Rg8wtGDzvtBL3w&e=1632259990
+
 #EXTINF:-1 tvg-id="SCTV20" group-title="SCTV" tvg-logo="https://i.ibb.co/5WH5Sf7/SCTV20-BEARTV.png", SCTV20 HD - Ca Nhạc
-https://rlink.vn/beartv-sctv20
+http://116.108.40.250:8080/sctv/e1/secure/sctv20/sd1/index.m3u8?md5=lb0MLr7Ra4oiddBQkWvAug&expires=2556118740&token=xxkPohAnu-D2c1khQwkLVA&e=1632260037
+
 #EXTINF:-1 tvg-id="SCTV22" group-title="SCTV" tvg-logo="https://i.ibb.co/SwpzGqp/SCTV22-BEARTV.png", SCTV22 HD - Ssport 1
-https://rlink.vn/beartv-sctv22
+http://116.108.41.3:8080/sctv/e1/secure/sctv22/sd1/index.m3u8?md5=MP6PbU0wC37imEmBeKk0EQ&expires=2556118740&token=2b0CCR-AjNjLhlXotFmATg&e=1632260084
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bvTmmhm/Viva-TV-BEARTV.png" group-title="QUỐC TẾ - QNET",VIVA TV 
