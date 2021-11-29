@@ -193,7 +193,7 @@ WOW!TV,http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u
 日本 Ⅰ 宝石GSTV,https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist_w1860888413_b600000.m3u8
 日本 Ⅰ 宝石GSTV,https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/playlist.m3u8
 
-$c_start午夜剧场_8888$c_end
+$c_start午夜剧场$c_end_8888
 Extasy TV HD,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
 欧美2,http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
 欧美3,http://live.redtraffic.xyz/teen.m3u8?fluxuslust.m3u8
