@@ -1,7 +1,7 @@
 $c_start影视专区$c_end
 香港C+蓝光,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 TVB怀旧剧,mitv://ns2.hellotvvod.com:9906/5f99a3cfce824f6da2fd0c3b6797428a
-TVB-热播剧,http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
+TVB-热播剧,mitv://ns2.hellotvvod.com:9906/55fa6310d30d45029c38c2848ffbcb85
 电影（一区),http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 电影（二区),mitv://ns2.hellotvvod.com:9906/ec8466ba789143998fb9ed858b7c174e
 电影（三区),mitv://ns2.hellotvvod.com:9906/4699a8c6571243a4b5387f6b3c639851
@@ -98,53 +98,4 @@ WOW!TV,http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u
 日本 Ⅰ 日本购物,http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
 日本 Ⅰ 宝石GSTV,https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist_w1860888413_b600000.m3u8
 日本 Ⅰ 宝石GSTV,https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/playlist.m3u8
-
-$c_start午夜剧场$c_end
-Extasy TV HD,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
-欧美2,http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
-欧美3,http://live.redtraffic.xyz/teen.m3u8?fluxuslust.m3u8
-欧美4,http://live.redtraffic.xyz/pornstar.m3u8?fluxuslust.m3u8
-欧美5,http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
-欧美6,http://live.redtraffic.xyz/milf.m3u8?fluxuslust.m3u8
-欧美7,http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
-欧美8,http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
-欧美9,http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
-欧美10,http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
-欧美11,http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
-欧美12,http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
-
-浓厚接吻,https://bp1.dkkomo.com/stream/full/japan/3200/111420_001-1pon.m3u8
-亞洲娃娃,https://iwant-sex.com/videos/13206/13206.m3u8
-草死我了,https://iwant-sex.com/videos/13366/13366.m3u8
-淫娃成熟時,https://iwant-sex.com/videos/13372/13372.m3u8
-淫蕩母女,https://iwant-sex.com/videos/13485/13485.m3u8
-清純學生妹,https://iwant-sex.com/videos/13538/13538.m3u8
-甜美妹子,https://iwant-sex.com/videos/13228/13228.m3u8
-白衣妹子,https://iwant-sex.com/videos/13346/13346.m3u8
-监狱不设防,https://video2.51daao.com/btt1/2020/11/20201103/uU6eJEpm/index.m3u8
-嫩妹,https://iwant-sex.com/videos/13478/13478.m3u8
-小騷貨,https://iwant-sex.com/videos/13519/13519.m3u8
-約嬌羞白領包房,https://iwant-sex.com/videos/13321/13321.m3u8
-紳士大保健,https://iwant-sex.com/videos/13373/13373.m3u8
-絕頂高潮性體驗,https://iwant-sex.com/videos/13210/13210.m3u8
-大奶長發小嫩妹,https://iwant-sex.com/videos/13139/13139.m3u8
-外圍兼職妹,https://iwant-sex.com/videos/13357/13357.m3u8
-勾引弟弟,https://iwant-sex.com/videos/13213/13213.m3u8
-口交毒龍,https://iwant-sex.com/videos/13203/13203.m3u8
-可愛小女友,https://iwant-sex.com/videos/13410/13410.m3u8
-雙飛小嫩妹,https://iwant-sex.com/videos/13299/13299.m3u8
-二本道,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0431_full/1500kb/hls/index.m3u8
-亞籍美女,https://iwant-sex.com/videos/13207/13207.m3u8
-亞裔美女,https://iwant-sex.com/videos/13424/13424.m3u8
-人妻大挑戰,https://iwant-sex.com/videos/13328/13328.m3u8
-保健按摩服務,https://iwant-sex.com/videos/13418/13418.m3u8
-偷情,https://iwant-sex.com/videos/13226/13226.m3u8
-一本道,http://video1.rhsj520.com:8091/nyrm3/20180105/3/050313-328/1500kb/hls/index.m3u8
-後嫩妹子,https://iwant-sex.com/videos/13243/13243.m3u8
-後小辣妹,https://iwant-sex.com/videos/13312/13312.m3u8
-巨乳小女生,https://iwant-sex.com/videos/13324/13324.m3u8
-大雞巴,https://iwant-sex.com/videos/13365/13365.m3u8
-情色陷阱,https://iwant-sex.com/videos/13495/13495.m3u8
-
-
 
