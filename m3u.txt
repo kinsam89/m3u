@@ -1,4 +1,4 @@
-$c_start测试$c_end 密码：521
+测试_531
 鳳凰中文台,mitv://ns2.hellotvvod.com:9906/1cca583ce33142c9840bcf53b030e47c
 鳳凰資訊台,mitv://ns2.hellotvvod.com:9906/c94bbe8b3f9044eaa6ef8a2aaba873d4
 鳳凰香港台,mitv://ns2.hellotvvod.com:9906/1e2d62497f71486cb6f1d6bbe1bbdb4f
