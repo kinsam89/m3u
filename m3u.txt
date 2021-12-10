@@ -1,4 +1,47 @@
 
+$c_start测试$c_end 密码：521
+鳳凰中文台,mitv://ns2.hellotvvod.com:9906/1cca583ce33142c9840bcf53b030e47c
+鳳凰資訊台,mitv://ns2.hellotvvod.com:9906/c94bbe8b3f9044eaa6ef8a2aaba873d4
+鳳凰香港台,mitv://ns2.hellotvvod.com:9906/1e2d62497f71486cb6f1d6bbe1bbdb4f
+陽光衛視,mitv://ns2.hellotvvod.com:9906/ff6e07bcb19740c4b360e3fa958a5f2c
+星空衛視,mitv://ns2.hellotvvod.com:9906/7c8f26565a5440248863081512363152
+香港卫视文旅台,http://hw-play.lezhibo.com/live/9087c1cd1c4c475b868745a5b5341d9d.m3u8
+澳門-MACAU,mitv://ns2.hellotvvod.com:9906/ba43211992f348d6a8b07f1edb894c9b
+澳門蓮花,mitv://ns2.hellotvvod.com:9906/5a534ef41b9647c9aad8facdb5525a2a
+港台电视31,mitv://ns2.hellotvvod.com:9906/26306a6246814adbaec622fd114432ec
+港台電視32,mitv://ns2.hellotvvod.com:9906/dcd3e6336bec46168a990c3331cb8579
+HKC綜合娛樂台,mitv://ns2.hellotvvod.com:9906/a17643cfcae6400d8770e4b89958b706
+香港開電視,mitv://ns2.hellotvvod.com:9906/ae5366f93aa942ddb49b19c9492f5d72
+翡翠台,mitv://ns2.hellotvvod.com:9906/9e2a8fd74a5242f3b2e2621cb384ec84
+翡翠台,http://ai7499003.va1.aihost10.top/live/iptv_1.m3u8
+無綫新聞台,mitv://ns2.hellotvvod.com:9906/977fac4b93af4ee0a190f38217d79e51
+無綫新聞台(備),mitv://ns2.hellotvvod.com:9906/92b7235ae2a54766a2acb97e5f7a64ef
+無綫財經·資訊台,mitv://ns2.hellotvvod.com:9906/790b3d24875349d8b3118357cb9a5124
+明珠台,mitv://ns2.hellotvvod.com:9906/7a62960513a04dc18339caabbf644cd9
+明珠台,http://ai7499003.va1.aihost10.top/live/iptv_13.m3u8
+明珠台,http://iptv.tvfix.org/hls/pearl.m3u8
+now新聞台,mitv://ns2.hellotvvod.com:9906/f228f98bc84245ce9b4870364b82b6da
+HKC新聞台,mitv://ns2.hellotvvod.com:9906/a8429ecad2e446e18c362b031e3d32bf
+HKC直播新聞台,mitv://ns2.hellotvvod.com:9906/eede001be16e4991843619bb8af3f840
+HKC財經資訊台,mitv://ns2.hellotvvod.com:9906/94ecdbe381c54b58bcca74b7b88047a2
+TVB經典台,mitv://ns2.hellotvvod.com:9906/1c0d8aefa5cd4d009cecff61ebc3e18b
+TVB娛樂新聞台,mitv://ns2.hellotvvod.com:9906/f500497b96b1458a8f9f5da38c6e02d7
+TVB 星河,mitv://ns2.hellotvvod.com:9906/5f99a3cfce824f6da2fd0c3b6797428a
+HKC 18,mitv://ns2.hellotvvod.com:9906/36976aef6f4f4ab2aad06b8ece5aac54
+HKC 603,mitv://ns2.hellotvvod.com:9906/bc32fd90af7d4f4aaa3bd451d9199153
+HKC体育台,mitv://ns2.hellotvvod.com:9906/1f7426398b0248708172875db037edff
+HKC Sports Plus 1,mitv://ns2.hellotvvod.com:9906/947fa69d3ee7421f83b9aae7df4c846d
+翡翠台(備),mitv://ns2.hellotvvod.com:9906/279032f76ae6465d9f6aff532770787f
+J2,mitv://ns2.hellotvvod.com:9906/4b20b6d78e904b779ff16c0b10d6c3e4
+J2,http://ai7499003.va1.aihost10.top/live/iptv_12.m3u8
+J2,http://iptv.tvfix.org/hls/j2.m3u8
+开电视,http://ai7499003.va1.aihost10.top/live/iptv_7.m3u8
+ViuTV,http://ai7499003.va1.aihost10.top/live/iptv_8.m3u8
+无线新闻台,http://ai7499003.va1.aihost10.top/live/iptv_9.m3u8
+无线财经·资讯台,http://ai7499003.va1.aihost10.top/live/iptv_10.m3u8
+NOW新闻台,http://ai7499003.va1.aihost10.top/live/iptv_16.m3u8
+RTHK31,http://ai7499003.va1.aihost10.top/live/iptv_20.m3u8
+RTHK32,http://ai7499003.va1.aihost10.top/live/iptv_21.m3u8
 
 $c_start影视专区$c_end
 香港C+蓝光,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
