@@ -11,7 +11,7 @@ K I X·动作频道,https://livecdn.fptplay.net/hda1/kixhd_hls.smil/chunklist_b2
 
 $c_start港澳$c_end
 无线新闻台,http://www.chahaoquan.com/wz/epg/tvb.php?id=1#http://livetv.dnsfor.me:80/channel.10.m3u8
-TVB 翡翠台,P2p://ns2.hellotvvod.com:9906/9e2a8fd74a5242f3b2e2621cb384ec84#http://livetv.dnsfor.me/channel.18.m3u8#P2p://ns2.hellotvvod.com:9906/9e2a8fd74a5242f3b2e2621cb384ec84#http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+TVB 翡翠台,http://livetv.dnsfor.me/channel.18.m3u8#mitv://ns2.hellotvvod.com:9906/9e2a8fd74a5242f3b2e2621cb384ec84#P2p://ns2.hellotvvod.com:9906/9e2a8fd74a5242f3b2e2621cb384ec84#http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 J2,http://livetv.dnsfor.me/channel.19.m3u8#http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 J5,http://livetv.dnsfor.me:80/channel.11.m3u8
 pearl,mitv://ns2.hellotvvod.com:9906/92b7235ae2a54766a2acb97e5f7a64ef#https://cdn.hkdtmb.com/hls/84/index.m3u8#http://185.207.176.189:8080/channels/tv-84/playlist.m3u8#https://cdn.hkdtmb.com/hls/84b/index.m3u8
