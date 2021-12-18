@@ -1,15 +1,6 @@
 
-$c_start影视专区$c_end
+$c_start香港$c_end
 香港C+蓝光,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
-TVB怀旧剧,mitv://ns2.hellotvvod.com:9906/5f99a3cfce824f6da2fd0c3b6797428a
-TVB-热播剧,mitv://ns2.hellotvvod.com:9906/55fa6310d30d45029c38c2848ffbcb85
-电影（一区),http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-电影（二区),mitv://ns2.hellotvvod.com:9906/ec8466ba789143998fb9ed858b7c174e
-电影（三区),mitv://ns2.hellotvvod.com:9906/4699a8c6571243a4b5387f6b3c639851
-K I X·动作频道,https://livecdn.fptplay.net/hda1/kixhd_hls.smil/chunklist_b2500000.m3u8
-
-
-$c_start港澳$c_end
 无线新闻台,http://www.chahaoquan.com/wz/epg/tvb.php?id=1#http://livetv.dnsfor.me:80/channel.10.m3u8
 TVB 翡翠台,http://livetv.dnsfor.me/channel.18.m3u8#mitv://ns2.hellotvvod.com:9906/9e2a8fd74a5242f3b2e2621cb384ec84#P2p://ns2.hellotvvod.com:9906/9e2a8fd74a5242f3b2e2621cb384ec84#http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 J2,http://livetv.dnsfor.me/channel.19.m3u8#http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
@@ -25,6 +16,9 @@ RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8#
 香港开电视,https://cdn.hkdtmb.com/hls/77/index.m3u8
 有线财经,https://api.leonardpark.dev/live/icable/108
 澳门资讯,http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
+电影（一区),http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+电影（二区),https://livecdn.fptplay.net/hda1/kixhd_hls.smil/chunklist_b2500000.m3u8
+
 
 $c_start台湾$c_end
 大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
