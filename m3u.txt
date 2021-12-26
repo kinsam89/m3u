@@ -2,13 +2,13 @@
 $c_start香港$c_end
 香港C+蓝光,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 无线新闻台,http://www.chahaoquan.com/wz/epg/tvb.php?id=1#http://livetv.dnsfor.me:80/channel.10.m3u8
-TVB 翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8台#http://livetv.dnsfor.me/channel.18.m3u8#mitv://ns2.hellotvvod.com:9906/9e2a8fd74a5242f3b2e2621cb384ec84#P2p://ns2.hellotvvod.com:9906/9e2a8fd74a5242f3b2e2621cb384ec84#http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+TVB 翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8#http://livetv.dnsfor.me/channel.18.m3u8#mitv://ns2.hellotvvod.com:9906/9e2a8fd74a5242f3b2e2621cb384ec84#P2p://ns2.hellotvvod.com:9906/9e2a8fd74a5242f3b2e2621cb384ec84#http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 J2,https://cdn.hkdtmb.com/hls/82/index.m3u8#http://185.207.176.189:8080/channels/tv-82/playlist.m3u8http://livetv.dnsfor.me/channel.19.m3u8#http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 J5,http://livetv.dnsfor.me:80/channel.11.m3u8
 pearl,mitv://ns2.hellotvvod.com:9906/92b7235ae2a54766a2acb97e5f7a64ef#https://cdn.hkdtmb.com/hls/84/index.m3u8#http://185.207.176.189:8080/channels/tv-84/playlist.m3u8#https://cdn.hkdtmb.com/hls/84b/index.m3u8
 Viu TV,https://cdn.hkdtmb.com/hls/99/index.m3u8
 RTHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8#https://cdn.hkdtmb.com/hls/31/index.m3u8
-RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8#http://livetv.dnsfor.me/channel.2.m3u8#https://cdn.hkdtmb.com/hls/32/index.m3u8
+RTHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8#https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8#http://livetv.dnsfor.me/channel.2.m3u8
 凤凰中文台,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8#https://player.ggiptv.com/v/ifeng.php?id=2
 凤凰资讯台,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8#https://player.ggiptv.com/v/ifeng.php?id=1
 凤凰香港台,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8#https://player.ggiptv.com/v/ifeng.php?id=3
