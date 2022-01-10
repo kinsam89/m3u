@@ -3,7 +3,7 @@ $c_start香港$c_end
 无线新闻台,http://www.chahaoquan.com/wz/epg/tvb.php?id=1#http://livetv.dnsfor.me:80/channel.10.m3u8
 TVB 翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8#p5p://fccs.123178.top:9906/615ae0360009eda6044bf987e8d620d7
 J2,https://cdn.hkdtmb.com/hls/82/index.m3u8#http://185.207.176.189:8080/channels/tv-82/playlist.m3u8#http://livetv.dnsfor.me/channel.19.m3u8#http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
-J5,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
+J5,http://livetv.dnsfor.me:80/channel.11.m3u8#http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
 pearl,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8#https://cdn.hkdtmb.com/hls/84/index.m3u8
 Viu TV,https://cdn.hkdtmb.com/hls/99/index.m3u8
 RTHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8#https://cdn.hkdtmb.com/hls/31/index.m3u8
@@ -17,7 +17,6 @@ RTHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8#https://rthklive2-lh.akamaihd.ne
 澳门资讯,http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
 电影（一区),http://iptv.tvfix.org/hls/mydy.m3u8
 电影（二区),https://livecdn.fptplay.net/hda1/kixhd_hls.smil/chunklist_b2500000.m3u8
-
 
 $c_start台湾$c_end
 大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
