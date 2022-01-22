@@ -5,9 +5,9 @@ TVB 翡翠台,p5p://fccs.123178.top:9906/615ae0360009eda6044bf987e8d620d7#http:/
 J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 J5,http://livetv.dnsfor.me:80/channel.11.m3u8#http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
 pearl,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8#https://cdn.hkdtmb.com/hls/84/index.m3u8
-Viu TV,https://cdn.hkdtmb.com/hls/99/index.m3u8
-RTHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8#https://cdn.hkdtmb.com/hls/31/index.m3u8
-RTHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8#https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8#http://livetv.dnsfor.me/channel.2.m3u8
+Viu TV,http://iptv.tvfix.org/hls/viutv.m3u8#http://iptv.tvfix.org/hls/viutv2.m3u8
+RTHK31,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8#http://iptv.tvfix.org/hls/rthk31.m3u8
+RTHK32,http://iptv.tvfix.org/hls/rthk32.m3u8
 凤凰中文台,http://iptv.tvfix.org/hls/fhzw.m3u8#http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8#http://ott.js.chinamobile.com/TVOD/3/224/3221228057/index.m3u8
 凤凰资讯台,http://iptv.tvfix.org/hls/fhzx.m3u8#http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8#http://223.110.235.4/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8#https://player.ggiptv.com/v/ifeng.php?id=1
 凤凰香港台,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8#http://223.110.236.2/ott.js.chinamobile.com/TVOD/3/224/3221228060/index.m3u8#http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P#http://ott.js.chinamobile.com/TVOD/3/224/3221228060/index.m3u8
