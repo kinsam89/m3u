@@ -4,7 +4,7 @@ $c_start香港$c_end
 TVB 翡翠台,p5p://fccs.123178.top:9906/615ae0360009eda6044bf987e8d620d7#http://iptv.tvfix.org/hls/jade2.m3u8
 J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 J5,http://livetv.dnsfor.me:80/channel.11.m3u8#http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
-pearl,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8#https://cdn.hkdtmb.com/hls/84/index.m3u8
+pearl,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
 Viu TV,http://iptv.tvfix.org/hls/viutv.m3u8#http://iptv.tvfix.org/hls/viutv2.m3u8
 RTHK31,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8#http://iptv.tvfix.org/hls/rthk31.m3u8
 RTHK32,http://iptv.tvfix.org/hls/rthk32.m3u8
