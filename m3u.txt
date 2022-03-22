@@ -1,13 +1,13 @@
 $c_start香港$c_end
 香港C+蓝光,
-无线新闻台,http://51.222.193.143:10010/1#http://livetv.dnsfor.me:80/channel.10.m3u8
-TVB 翡翠台,http://51.222.193.143:10010/2
-J2,http://51.222.193.143:10010/7
-J5,http://51.222.193.143:10010/6#http://livetv.dnsfor.me:80/channel.11.m3u8
-pearl,http://51.222.193.143:10010/5#http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
-Viu TV,http://51.222.193.143:10010/3
-RTHK31,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
-RTHK32,
+无线新闻台,http://iptv.tvfix.org/hls/inews.m3u8
+TVB 翡翠台,http://iptv.tvfix.org/hls/jade.m3u8#http://iptv.tvfix.org/hls/jade2.m3u8
+J2,http://iptv.tvfix.org/hls/j2.m3u8
+J5,http://iptv.tvfix.org/hls/finance.m3u8
+pearl,http://iptv.tvfix.org/hls/pearl.m3u8
+Viu TV,http://iptv.tvfix.org/hls/viutv.m3u8
+RTHK31,http://iptv.tvfix.org/hls/rthk31.m3u8
+RTHK32,http://iptv.tvfix.org/hls/rthk32.m3u8
 凤凰中文台,http://iptv.tvfix.org/hls/fhzw.m3u8#http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8#http://ott.js.chinamobile.com/TVOD/3/224/3221228057/index.m3u8
 凤凰资讯台,http://iptv.tvfix.org/hls/fhzx.m3u8#http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8#http://223.110.235.4/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8#https://player.ggiptv.com/v/ifeng.php?id=1
 凤凰香港台,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8#http://223.110.236.2/ott.js.chinamobile.com/TVOD/3/224/3221228060/index.m3u8#http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P#http://ott.js.chinamobile.com/TVOD/3/224/3221228060/index.m3u8
