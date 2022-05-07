@@ -1,15 +1,15 @@
 $c_start香港$c_end
-无线新闻台,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8#http://livetv.dnsfor.me:80/channel.10.m3u8
-TVB 翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+无线新闻台,http://livetv.dnsfor.me:80/channel.10.m3u8
+TVB 翡翠台,https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8 
 J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 J5,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
-pearl,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
+pearl,http://kkmix1.f3322.net:825/hls/ch1/s.m3u8
 Viu TV,http://iptv.tvfix.org/hls/viutv.m3u8
 RTHK31,http://iptv.tvfix.org/hls/rthk31.m3u8
 RTHK32,http://iptv.tvfix.org/hls/rthk32.m3u8
-凤凰中文台,http://iptv.tvfix.org/hls/fhzw.m3u8#http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8#http://ott.js.chinamobile.com/TVOD/3/224/3221228057/index.m3u8
-凤凰资讯台,http://iptv.tvfix.org/hls/fhzx.m3u8#http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8#http://223.110.235.4/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8#https://player.ggiptv.com/v/ifeng.php?id=1
-凤凰香港台,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8#http://223.110.236.2/ott.js.chinamobile.com/TVOD/3/224/3221228060/index.m3u8#http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P#http://ott.js.chinamobile.com/TVOD/3/224/3221228060/index.m3u8
+凤凰中文台,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+凤凰资讯台,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+凤凰香港台,,http://59.44.10.113:9901/tsfile/live/1080_1.m3u8
 有线新闻,https://api.leonardpark.dev/live/icable/109
 香港开电视,http://livetv.dnsfor.me/channel.9.m3u8#http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8#http://media.fantv.hk/m3u8/archive/channel2.m3u8#http://livetv.dnsfor.me:80/channel.9.m3u8#https://cdn.hkdtmb.com/hls/77/index.m3u8
 有线财经,https://api.leonardpark.dev/live/icable/108
